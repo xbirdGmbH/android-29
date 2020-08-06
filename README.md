@@ -1,6 +1,6 @@
 # Docker for Android SDK 29
 
-Docker for Android SDK 29 with preinstalled build tools and emulator image
+Docker for Android SDK 29 with preinstalled build tools
 
 > Edit from [mindrunner/docker-android-sdk](https://github.com/mindrunner/docker-android-sdk)
 
